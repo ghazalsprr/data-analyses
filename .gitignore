@@ -8,9 +8,9 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Generated data (recreated by the notebooks)
-analyses/*/data/processed/*
-!analyses/*/data/processed/.gitkeep
+# Generated data (recreated by the notebook)
+data/processed/*
+!data/processed/.gitkeep
 
 # OS / editors
 .DS_Store
